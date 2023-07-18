@@ -1,0 +1,52 @@
+{
+  "Departamentos": [
+    {
+      "id": 1,
+      "nomDepartamento": "Santander"
+    },
+    {
+      "id": 2,
+      "nomDepartamento": "Cundinamarca"
+    },
+    {
+      "id": 3,
+      "nomDepartamento": "Flotax"
+    },
+    {
+      "id": 4,
+      "nomDepartamento": "medellin"
+    }
+  ],
+  "Ciudades": [
+    {
+      "id": 1,
+      "nomCiudad": "Bucaramanga",
+      "departamentoId": 1,
+      "imagen": "https://th.bing.com/th/id/R.775de3cf4483d799b7d7dcaa2502b887?rik=%2b2gMu09GYEiOLQ&pid=ImgRaw&r=0",
+      "coordenadas": {
+        "lat": 4,
+        "lon": 72
+      }
+    },
+    {
+      "id": 2,
+      "nomCiudad": "Barrancabermeja",
+      "departamentoId": 1,
+      "imagen": "https://www.vanguardia.com/binrepository/716x477/0c0/716d477/none/12204/RSSW/panoramica1-6948824-20220426093549_7232240_20220714183423.jpg",
+      "coordenadas": {
+        "lat": 4,
+        "lon": 72
+      }
+    },
+    {
+      "id": 4,
+      "nomCiudad": "Cajica",
+      "departamentoId": 2,
+      "imagen": "https://www.turismocajica.gov.co/wp-content/uploads/2022/02/inmaculada.jpg",
+      "coordenadas": {
+        "lat": 4,
+        "lon": 72
+      }
+    }
+  ]
+}
